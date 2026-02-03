@@ -22,12 +22,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit472-ai&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amit472-ai&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amit472-ai&theme=dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Amit472-ai&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 
 ## 🐍 Contribution Snake
