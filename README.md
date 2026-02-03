@@ -27,6 +27,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
 </p>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Amit472-ai/github-contribution-snake/blob/output/github-contribution-grid-snake.svg)
+ 
+## 🚀 Featured Projects
+
+- 🔗 **PingNotes** – Cloud Notes Organizer for Students  
+- 🔗 **Student Management API** – Spring Boot + MongoDB  
+- 🔗 **Event Management System Repo** – College Event Manager Website
+
+  
+
 
 
 
