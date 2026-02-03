@@ -10,8 +10,8 @@
 
 <p align="center">
   🌐 <a href="https://your-portfolio-link.com">Portfolio</a> • 
-  💼 <a href="https://linkedin.com/in/your-link">LinkedIn</a> • 
-  📧 yourmail@gmail.com
+  💼 <a href="https://linkedin.com/in/amit-kumar-710859380">LinkedIn</a> • 
+  📧 <a href = "amitgurjar5212@gmail.com">Email</a>
 </p>
 
 
@@ -85,8 +85,6 @@
 <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge"/>
 </p>
 
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
