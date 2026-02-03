@@ -30,11 +30,9 @@
 
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Amit472-ai&theme=dark"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit472-ai&theme=dark&hide_border=true" />
 </p>
+
 
 
 
