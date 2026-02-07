@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://ai.studio/apps/drive/1dZKk5bLQdkOmrUFOYWxgOqQASfSm6KuP?fullscreenApplet=true">Portfolio</a> • 
+  🌐 <a href="https://amit472-ai.github.io/portfolio/">Portfolio</a> • 
   💼 <a href="https://linkedin.com/in/amit-kumar-710859380">LinkedIn</a> • 
   📧 <a href = "amitgurjar5212@gmail.com">Email</a>
 </p>
