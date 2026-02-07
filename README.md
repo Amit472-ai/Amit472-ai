@@ -11,7 +11,6 @@
 <p align="center">
   🌐 <a href="https://amit472-ai.github.io/portfolio/">Portfolio</a> • 
   💼 <a href="https://www.linkedin.com/in/amit-kumar-710859380/">LinkedIn</a> • 
-  📧 <a href = "amitgurjar5212@gmail.com">Email</a>
 </p>
 
 
